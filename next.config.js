@@ -1,5 +1,5 @@
 module.exports = {
-  reactStrictMode: true,
+  reactStrictMode: false,
   images: {
     domains: ['i.imgur.com', 'media.discordapp.net']
   }
